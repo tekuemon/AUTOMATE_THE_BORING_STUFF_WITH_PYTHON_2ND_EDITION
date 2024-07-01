@@ -1,2 +1,2 @@
 # AUTOMATE_THE_BORING_STUFF_WITH_PYTHON_2ND_EDITION
-seulment pour moi apprendre
+完全自習用
